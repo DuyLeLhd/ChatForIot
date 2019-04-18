@@ -1,0 +1,14 @@
+{"times":[
+	{ "time_neast": ["gần đây","hôm nay", "gần nhất", "sớm nhất", "tuyệt đối gần", "mới nhất","buổi sáng nay"],
+	  "time_morning": ["sáng hôm nay", "buổi sáng nay", "sáng nay"],
+	  "time_afternoon": ["chiều hôm nay", "chiều nay", "buổi chiều nay"],
+	  "time_evening": ["tối hôm nay", "tối nay","buổi tối nay"],
+	  "days_ago": ["ngày trước"],
+          "number": ["1","một","2"]	
+}
+
+	
+
+]
+}
+	
